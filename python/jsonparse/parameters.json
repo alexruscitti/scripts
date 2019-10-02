@@ -1,0 +1,33 @@
+{
+    "Group_1": {
+        "Integer": 50,
+        "List": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "Bool": true
+    },
+    "Group_2": {
+        "Subgroups": {
+            "Food": "Banana",
+            "Drink": "Sprite"
+        }
+    },
+    "Group_3": {
+        "Subgroup_With_Subgroups": {
+            "Elements": {
+                "Hydrogen": "H",
+                "Helium": "He",
+                "Carbon": "C",
+                "Iron": "Fe"
+            },
+            "Operators": {
+                "Add": "+",
+                "Subtract": "-",
+                "Divide": "/"
+            }
+        }
+    }
+}
